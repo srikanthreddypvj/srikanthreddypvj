@@ -4,34 +4,14 @@
 <p align="left"> <a href="https://twitter.com/imsrikanth28" target="blank"><img src="https://img.shields.io/twitter/follow/imsrikanth28?logo=twitter&style=for-the-badge" alt="imsrikanth28" /></a> </p>
 
 - 🔭 I’m currently working on **Smart Classroom Power Automation(IoT)**
-
-
-
-
-
 - 🌱 I’m currently learning **Advanced Data Visualizations**
-
-
-
-
-
 - 👯 I’m looking to collaborate on **Software Projects**
-
-
-
-
-
 - 🤝 I’m looking for help with **MERN Stack, AI/ML, IoT,Data Analytics, JAVA Projects**
-
 - 📫 Reach me **srikanthreddypvj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/imsrikanth28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imsrikanth28" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/panduga-venkata-jaya-srikanth-reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="panduga-venkata-jaya-srikanth-reddy" height="30" width="40" /></a>
-<a href="https://instagram.com/srikanthreddypvj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srikanthreddypvj" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/srikanthreddypv1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="srikanthreddypv1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/srikanthreddypvj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srikanthreddypvj" height="30" width="40" /></a>
+<a href="https://twitter.com/imsrikanth28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imsrikanth28" height="30" width="40" /></a><a href="https://linkedin.com/in/panduga-venkata-jaya-srikanth-reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="panduga-venkata-jaya-srikanth-reddy" height="30" width="40" /></a><a href="https://instagram.com/srikanthreddypvj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srikanthreddypvj" height="30" width="40" /></a><a href="https://www.hackerrank.com/srikanthreddypv1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="srikanthreddypv1" height="30" width="40" /></a><a href="https://www.leetcode.com/srikanthreddypvj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srikanthreddypvj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
