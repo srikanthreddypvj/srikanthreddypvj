@@ -3,13 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/imsrikanth28" target="blank"><img src="https://img.shields.io/twitter/follow/imsrikanth28?logo=twitter&style=for-the-badge" alt="imsrikanth28" /></a> </p>
 
-- 🔭 I’m currently working on **Smart Classroom Power Automation(IoT)**
-
-- 🌱 I’m currently learning **Advanced Data Visualizations**
-
-- 👯 I’m looking to collaborate on **Software Projects**
-
-- 🤝 I’m looking for help with **MERN Stack, AI/ML, IoT,Data Analytics, JAVA Projects**
 
 - 📫 Reach me **srikanthreddypvj@gmail.com**
 
