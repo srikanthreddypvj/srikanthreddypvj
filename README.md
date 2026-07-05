@@ -23,34 +23,6 @@
 
 <br>
 
-## 🎯 What I Do
-
-```python
-class AIDeveloper:
-    def __init__(self):
-        self.name = "Jayadeep Pendela"
-        self.title = "AI/ML Engineer & Full-Stack Developer"
-        self.specialties = {
-            "ai_ml": ["Computer Vision", "Deep Learning", "Model Deployment"],
-            "web_dev": ["React", "Next.js", "FastAPI", "Node.js"],
-            "tools": ["PyTorch", "TensorFlow", "OpenCV", "Docker"]
-        }
-        self.philosophy = "Build → Learn → Iterate → Scale"
-    
-    def current_focus(self):
-        return {
-            "research": "Advanced Computer Vision Models",
-            "development": "Scalable ML Pipelines",
-            "learning": "System Design & Architecture"
-        }
-    
-    def get_quote(self):
-        return "I don't just write code; I engineer intelligence ✨"
-
-dev = AIDeveloper()
-print(dev.get_quote())
-```
-
 <br>
 
 ## 🛠️ **Technical Arsenal**
