@@ -258,12 +258,12 @@
 
 <br>
 
-## 📊 GitHub Analytics
+<!--## 📊 GitHub Analytics
 
 <div align="center">
 
 <!-- GitHub Stats -->
-<a href="https://github.com/Jayadeep8712">
+<!--<a href="https://github.com/Jayadeep8712">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jayadeep8712&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&hide_border=true&bg_color=0D1117&title_color=7E3ACE&icon_color=7E3ACE&text_color=FFFFFF&ring_color=7E3ACE" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayadeep8712&layout=compact&langs_count=8&theme=radical&border_radius=15&hide_border=true&bg_color=0D1117&title_color=7E3ACE&text_color=FFFFFF" alt="Top Languages" />
 </a>
@@ -273,7 +273,7 @@
 <div align="center">
 
 <!-- Streak Stats -->
-<a href="https://github.com/Jayadeep8712">
+<!--<a href="https://github.com/Jayadeep8712">
   <img width="98%" src="https://streak-stats.demolab.com?user=Jayadeep8712&theme=radical&hide_border=true&border_radius=15&background=0D1117&ring=7E3ACE&fire=7E3ACE&currStreakLabel=7E3ACE" alt="GitHub Streak" />
 </a>
 
@@ -299,8 +299,8 @@
 
 </div>
 
-<br>
-
+<br> 
+--> -->  -->
 ## 🎯 Current Focus & Roadmap
 
 ```mermaid
@@ -374,11 +374,11 @@ graph LR
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayadeep-pendela-100278225/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pendelajayadeep@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-097?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Jayadeep8712)
-[![GitHub](https://img.shields.io/badge/GitHub-334?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayadeep8712)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://Instagram.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panduga-venkata-jaya-srikanth-reddy/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srikanthreddypvj@gmail.com)
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-097?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/srikanthreddypvj)  -->
+[![GitHub](https://img.shields.io/badge/GitHub-334?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srikanthreddypvj)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://Instagram.com/srikanthreddypvj)
 </div>
 
 <br>
