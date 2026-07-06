@@ -366,17 +366,12 @@
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srikanthreddypvj&theme=github_dark)
-
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srikanthreddypvj&theme=github_dark" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srikanthreddypvj&theme=github_dark" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=srikanthreddypvj&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=FFFFFF" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanthreddypvj&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=4FC3F7&text_color=FFFFFF" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srikanthreddypvj&theme=github_dark" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srikanthreddypvj&theme=github_dark" />
-</p>
+<img width="60%" src="https://streak-stats.demolab.com?user=srikanthreddypvj&theme=react&hide_border=true&background=0D1117&ring=4FC3F7&fire=FF6B6B&currStreakLabel=4FC3F7" alt="GitHub Streak" />
 
 </div>
 
