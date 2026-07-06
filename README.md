@@ -379,8 +379,6 @@
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srikanthreddypvj&theme=github_dark&utcOffset=5.5" />
 </p>
 
-<img width="60%" src="https://streak-stats.demolab.com?user=srikanthreddypvj&theme=react&hide_border=true&background=0D1117&ring=4FC3F7&fire=FF6B6B&currStreakLabel=4FC3F7" alt="GitHub Streak" />
-
 </div>
 
 <br>
