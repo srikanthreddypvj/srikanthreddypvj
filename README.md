@@ -35,7 +35,8 @@
 `ICRTAC'24 — VIT Chennai & UPM Malaysia`
 
 <br>
-
+<br>
+<br>
 <a href="https://ieeexplore.ieee.org/document/10940663/">
   <img src="https://img.shields.io/badge/📄_IEEE_2025-Smart_Classroom_Power_Automation:_Adaptive_&_Predictive-blue?style=for-the-badge&labelColor=0D1117" />
 </a>
@@ -43,7 +44,8 @@
 `IEEE Student Conference — NIT Bhopal`
 
 <br>
-
+<br>
+<br>
 <img src="https://img.shields.io/badge/🔒_Patent_Published-Smart_System_Enabling_Autonomous_Energy_Management-FFD700?style=for-the-badge&labelColor=0D1117" />
 <br>
 `Method for Autonomous Energy Management`
