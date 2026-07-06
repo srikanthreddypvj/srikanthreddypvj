@@ -48,7 +48,7 @@
 <br>
 <img src="https://img.shields.io/badge/🔒_Patent_Published-Smart_System_Enabling_Autonomous_Energy_Management-FFD700?style=for-the-badge&labelColor=0D1117" />
 <br>
-`Method for Autonomous Energy Management`
+`Patent Published, 2025`
 
 </div>
 
