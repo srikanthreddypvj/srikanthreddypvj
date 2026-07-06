@@ -366,9 +366,15 @@
 
 <div align="center">
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srikanthreddypvj&theme=github_dark)
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=srikanthreddypvj&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=FFFFFF" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanthreddypvj&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=4FC3F7&text_color=FFFFFF" alt="Top Languages" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srikanthreddypvj&theme=github_dark" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srikanthreddypvj&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srikanthreddypvj&theme=github_dark&utcOffset=5.5" />
 </p>
 
 <img width="60%" src="https://streak-stats.demolab.com?user=srikanthreddypvj&theme=react&hide_border=true&background=0D1117&ring=4FC3F7&fire=FF6B6B&currStreakLabel=4FC3F7" alt="GitHub Streak" />
@@ -381,29 +387,11 @@
 
 <br>
 
-## 🎨 Projects Showcase
+## 🔥 Motivation
 
 <div align="center">
 
-| 🤖 AI/ML Projects | 🌐 Full-Stack Apps | 🔬 Computer Vision |
-|:---:|:---:|:---:|
-| 🚀 Smart Automation | 📚 Digital Libraries | 👁️ Real-time Analysis |
-| 🔧 ML Pipelines | ⚛️ React Applications | 🎯 Object Detection |
-| ☁️ Model Deployment | 🔌 API Development | 🖼️ Image Processing |
-
-</div>
-
-<br>
-
----
-
-<br>
-
-## 💡 Developer Quotes
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img src="https://readme-typing-svg.herokuapp.com/?font=Georgia&weight=700&size=20&duration=5000&pause=3000&color=FF6B6B&center=true&vCenter=true&width=650&height=50&lines=Lot+of+people+doubt+me,+that+gives+me+energy.+—+Virat+Kohli+🏏" alt="Quote" />
 
 </div>
 
@@ -436,15 +424,6 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 
-<br><br>
-
-### ⚡ **Did You Know?**
-*I once trained a model that could differentiate between 50+ coffee bean varieties with 95% accuracy! ☕🤖*
-
-<br>
-
-**"Code is like humor. When you have to explain it, it's bad." — Cory House**
-
 </div>
 
 <br>
@@ -452,10 +431,6 @@
 ---
 
 <div align="center">
-
-*"The best way to predict the future is to invent it." — Alan Kay*
-
-<br>
 
 **Thanks for stopping by! Let's build something amazing together!** 🚀
 
