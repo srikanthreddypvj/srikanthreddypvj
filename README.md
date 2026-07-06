@@ -1,181 +1,231 @@
 <div align="center">
 
-  <!-- 1. The Visual Header -->
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:74B9FF,33:0984E3,66:00CEC9,100:00B894&height=220&section=header&text=Srikanth%20Reddy&fontSize=50&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Computer%20Vision&descSize=20&descAlign=50&descAlignY=70" alt="Header" />
+<!-- Header - Shark Design -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0052D4,50:4FC3F7,100:0052D4&height=250&section=header&text=Srikanth%20Reddy&fontSize=55&fontAlign=50&fontAlignY=45&animation=fadeIn&fontColor=ffffff&desc=Panduga%20Venkata%20Jaya&descSize=16&descAlign=50&descAlignY=25" alt="Header" />
 
-  <!-- 2. The Dynamic Intro -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00CEC9&center=true&vCenter=true&width=600&height=70&lines=👋+Hello!+This+is+Srikanth+Reddy;AI/ML+Engineer+💻;Full-Stack+Developer+🌐;Computer+Vision+Enthusiast+👁️;Building+Intelligent+Solutions+🚀" alt="Typing SVG" />
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=false&width=650&height=70&lines=👋+Hey+there!+I'm+Srikanth+Reddy;AI/ML+Engineer+%26+Problem+Solver+🧠;Full-Stack+Developer+%26+Creator+🌐;Computer+Vision+Enthusiast+👁️;Turning+Ideas+into+Reality+🚀" alt="Typing SVG" />
 
-  <br>
+<br>
 
-  <!-- 3. The Stats Badges -->
+</div>
+
+---
+
+<br>
+
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Jayadeep8712&color=00CEC9&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/github/followers/Jayadeep8712?color=00CEC9&label=FOLLOWERS&style=for-the-badge" alt="followers" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/github/stars/Jayadeep8712?color=00CEC9&label=STARS+EARNED&style=for-the-badge" alt="stars" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/github/last-commit/Jayadeep8712/Jayadeep8712?color=00CEC9&label=LAST+UPDATE&style=for-the-badge" alt="last commit" />
-  </p>
+  <b>Student - Vellore Institute of Technology, Chennai</b>&nbsp;&nbsp;|&nbsp;&nbsp;Integrated M.Tech in CSE — Software Engineering
+</p>
+
+<br>
+
+---
+
+<br>
+
+## 🏆 Research & Publications
+
+<div align="center">
+
+<a href="https://link.springer.com/chapter/10.1007/978-3-032-02537-1_23">
+  <img src="https://img.shields.io/badge/📄_Springer_2024-Lock_Your_Lands_–_Securing_Land_Records_with_Blockchain_&_IoT-green?style=for-the-badge&labelColor=0D1117" />
+</a>
+<br>
+`ICRTAC'24 — VIT Chennai & UPM Malaysia`
+
+<br>
+
+<a href="https://ieeexplore.ieee.org/document/10940663/">
+  <img src="https://img.shields.io/badge/📄_IEEE_2025-Smart_Classroom_Power_Automation:_Adaptive_&_Predictive-blue?style=for-the-badge&labelColor=0D1117" />
+</a>
+<br>
+`IEEE Student Conference — NIT Bhopal`
+
+<br>
+
+<img src="https://img.shields.io/badge/🔒_Patent_Published-Smart_System_Enabling_Autonomous_Energy_Management-FFD700?style=for-the-badge&labelColor=0D1117" />
+<br>
+`Method for Autonomous Energy Management`
 
 </div>
 
 <br>
 
+---
+
 <br>
 
-## 🛠️ **Technical Arsenal**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> **Tech Stack & Tools**
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Languages & Core Technologies
+<div align="center">
+
+### 💻 Languages & Core
 
 <table align="center">
 <tr>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
-<br>Python
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
+<br><b>Java</b>
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="48" height="48" />
-<br>Java
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" />
-<br>C++
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" />
+<br><b>C++</b>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-<br>C
+<br><b>C</b>
 </td>
-</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+<br><b>Python</b>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-<br>C#
+<br><b>C#</b>
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" />
-<br>JavaScript
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+<br><b>JavaScript</b>
 </td>
 <td align="center" width="96">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="48" height="48" alt="HTML5" />
-<br>HTML5
-</td>
+<br><b>HTML5</b>
 </td>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-<br>CSS3
+<br><b>CSS3</b>
 </td>
 </tr>
 </table>
 
-### 🤖 AI & Machine Learning
+---
+
+### 🤖 AI / ML & Data Science
 
 <table align="center">
 <tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-<br>TensorFlow
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+<br><b>PyTorch</b>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
-<br>PyTorch
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+<br><b>TensorFlow</b>
+</td>
+<td align="center" width="96">
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="HuggingFace" />
+<br><b>HuggingFace</b>
+</td>
+<td align="center" width="96">
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" width="48" height="48" alt="LangChain" />
+<br><b>LangChain</b>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
-<br>OpenCV
+<br><b>OpenCV</b>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" />
-<br>Scikit-learn
+<br><b>Scikit-learn</b>
 </td>
 <td align="center" width="96">
 <img src="https://cdn.simpleicons.org/keras/D00000" width="48" height="48" alt="Keras" />
-<br>Keras
+<br><b>Keras</b>
 </td>
 <td align="center" width="96">
 <img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" alt="NumPy" />
-<br>NumPy
+<br><b>NumPy</b>
 </td>
+</tr>
+<tr>
 <td align="center" width="96">
 <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" alt="Pandas" />
-<br>Pandas
+<br><b>Pandas</b>
+</td>
+<td align="center" width="96">
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/ollama.png" width="48" height="48" alt="Ollama" />
+<br><b>Ollama</b>
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/bot.png" width="48" height="48" alt="AI Agents" />
+<br><b>AI Agents</b>
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/documents.png" width="48" height="48" alt="RAG" />
+<br><b>RAG</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.simpleicons.org/neo4j/4581C3" width="48" height="48" alt="Neo4j" />
+<br><b>Neo4j</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit" />
+<br><b>Streamlit</b>
 </td>
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
-<br>Matplotlib
+<br><b>Matplotlib</b>
+</td>
 </tr>
 </table>
+
+---
 
 ### 🌐 Web Development
 
 <table align="center">
 <tr>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
-<br>React
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+<br><b>React</b>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" />
-<br>Next.js
+<br><b>Next.js</b>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-<br>Tailwind
+<br><b>Tailwind</b>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-<br>Vite
+<br><b>Vite</b>
 </td>
 <td align="center" width="96">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="48" height="48" alt="NodeJS" />
-<br>Node.js
+<br><b>Node.js</b>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-<br>Express.js
+<br><b>Express.js</b>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
-<br>Django
+<br><b>Django</b>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-<br>Flask
+<br><b>Flask</b>
 </td>
 </tr>
 <tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-<br>FastAPI
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-<br>Vercel
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-<br>Firebase
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-<br>Supabase
+<br><b>FastAPI</b>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-<br>Postman
+<br><b>Postman</b>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="48" height="48" alt="Swagger" />
-<br>Swagger
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+<br><b>Figma</b>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /> 
-<br>Figma
-</td>
-
-
 </tr>
 </table>
+
+---
 
 ### 🗄️ Databases & Cloud
 
@@ -183,167 +233,156 @@
 <tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br>MongoDB
+<br><b>MongoDB</b>
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48" />
-<br>MySQL
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+<br><b>MySQL</b>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-<br>PostgreSQL
+<br><b>PostgreSQL</b>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-<br>Firebase
+<br><b>Firebase</b>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-<br>Supabase
+<br><b>Supabase</b>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-<br>Vercel
+<br><b>Vercel</b>
 </td>
 <td align="center" width="96">
 <img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48" alt="Render" />
-<br>Render
+<br><b>Render</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.simpleicons.org/influxdb/22ADF6" width="48" height="48" alt="InfluxDB" />
+<br><b>InfluxDB</b>
 </td>
 </tr>
 </table>
 
-### ⚙️ Tools & Utilities
+---
+
+### 📊 Data Analytics & Automation
 
 <table align="center">
 <tr>
-
 <td align="center" width="96">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="48" height="48" alt="Git" />
-<br>Git
+<img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" width="48" height="48" alt="Hadoop" />
+<br><b>Hadoop</b>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
-<br>Bash
+<img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="48" height="48" alt="PySpark" />
+<br><b>PySpark</b>
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="48" height="48" />
-<br>GitHub
+<img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
+<br><b>Kafka</b>
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="48" height="48" />
-<br>Docker
+<img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" />
+<br><b>Grafana</b>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium" />
-<br>Selenium
+<img src="https://img.icons8.com/color/48/tableau-software.png" width="48" height="48" alt="Tableau" />
+<br><b>Tableau</b>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twilio/twilio-original.svg" width="48" height="48" alt="Twilio" />
-<br>Twilio
+<img src="https://img.icons8.com/color/48/power-bi-2021.png" width="48" height="48" alt="Power BI" />
+<br><b>Power BI</b>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
-<br>Canva
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=markdown" width="48" height="48" alt="Markdown" />
-<br>Markdown
-</td>
-<td align="center" width="96">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="48" height="48" alt="Matplotlib" />
-<br>Vs code
+<img src="https://img.icons8.com/fluency/48/power-automate.png" width="48" height="48" alt="Power Automate" />
+<br><b>Power Automate</b>
 </td>
 </tr>
 </table>
 
-<br>
+---
 
-<!--## 📊 GitHub Analytics
+### 🧰 Other Tools
 
-<div align="center">
-
-<!-- GitHub Stats -->
-<!--<a href="https://github.com/Jayadeep8712">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jayadeep8712&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=15&hide_border=true&bg_color=0D1117&title_color=7E3ACE&icon_color=7E3ACE&text_color=FFFFFF&ring_color=7E3ACE" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayadeep8712&layout=compact&langs_count=8&theme=radical&border_radius=15&hide_border=true&bg_color=0D1117&title_color=7E3ACE&text_color=FFFFFF" alt="Top Languages" />
-</a>
-
-</div>
-
-<div align="center">
-
-<!-- Streak Stats -->
-<!--<a href="https://github.com/Jayadeep8712">
-  <img width="98%" src="https://streak-stats.demolab.com?user=Jayadeep8712&theme=radical&hide_border=true&border_radius=15&background=0D1117&ring=7E3ACE&fire=7E3ACE&currStreakLabel=7E3ACE" alt="GitHub Streak" />
-</a>
-
-</div>
-
-<br>
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Jayadeep's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jayadeep8712&theme=react-dark&hide_border=true&area=true&color=7E3ACE&line=7E3ACE&point=FFFFFF&area_color=7E3ACE&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jayadeep8712&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br> 
---> -->  -->
-## 🎯 Current Focus & Roadmap
-
-```mermaid
-graph LR
-    A[🚀 Current Focus] --> B[🤖 AI/ML Engineering];
-    A --> C[🌐 Full-Stack Dev];
-    A --> D[☁️ Cloud & DevOps];
-    
-    B --> B1[👁️ Computer Vision];
-    B --> B2[🧠 Deep Learning];
-    B --> B3[⚡ Model Optimization];
-    
-    C --> C1[⚛️ React/Next.js];
-    C --> C2[🔙 FastAPI/Node.js];
-    C --> C3[🗃️ Database Design];
-    
-    D --> D1[🐳 Docker & Kubernetes];
-    D --> D2[🏗️ System Architecture];
-    D --> D3[📊 MLOps Pipelines];
-```
-<br>
-
-## 📊 Detailed Stats
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayadeep8712&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jayadeep8712&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jayadeep8712&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jayadeep8712&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jayadeep8712&theme=radical)
+<table align="center">
+<tr>
+<td align="center" width="96">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="48" height="48" alt="Git" />
+<br><b>Git</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+<br><b>Bash</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
+<br><b>GitHub</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
+<br><b>Docker</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium" />
+<br><b>Selenium</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twilio/twilio-original.svg" width="48" height="48" alt="Twilio" />
+<br><b>Twilio</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
+<br><b>Canva</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
+<br><b>Photoshop</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ae" width="48" height="48" alt="After Effects" />
+<br><b>After Effects</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=pr" width="48" height="48" alt="Premiere Pro" />
+<br><b>Premiere Pro</b>
+</td>
+</tr>
+</table>
 
 </div>
 
 <br>
 
-## 🎵 Coding Vibes
+---
+
+<br>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true&bg_color=0D1117)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srikanthreddypvj&theme=github_dark)
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srikanthreddypvj&theme=github_dark" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srikanthreddypvj&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srikanthreddypvj&theme=github_dark" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srikanthreddypvj&theme=github_dark" />
+</p>
 
 </div>
+
+<br>
+
+---
 
 <br>
 
@@ -361,38 +400,40 @@ graph LR
 
 <br>
 
+---
+
+<br>
+
 ## 💡 Developer Quotes
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
+<br>
+
+---
+
+<br>
 
 ## 📫 Let's Connect & Collaborate
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panduga-venkata-jaya-srikanth-reddy/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srikanthreddypvj@gmail.com)
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-097?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/srikanthreddypvj)  -->
-[![GitHub](https://img.shields.io/badge/GitHub-334?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srikanthreddypvj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panduga-venkata-jaya-srikanth-reddy/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srikanthreddypvj@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srikanthreddypvj)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://Instagram.com/srikanthreddypvj)
+
 </div>
 
 <br>
 
-## 🌟 Support & Recognition
+---
 
-<div align="center">
-
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/jayadeep" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-</div>
-
+<br>
 
 ## 🎮 Fun Section
 
@@ -400,29 +441,31 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <img width="100%" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 
-</div>
-
-<div align="center">
-
-<br>
+<br><br>
 
 ### ⚡ **Did You Know?**
 *I once trained a model that could differentiate between 50+ coffee bean varieties with 95% accuracy! ☕🤖*
 
-**"Code is like humor. When you have to explain it, it's bad." - Cory House**
+<br>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:74B9FF,33:0984E3,66:00CEC9,100:00B894&height=130&section=footer&reversal=true)
-
-**Thanks for stopping by! Let's build something amazing together!** 🚀
-
-  <img src="https://komarev.com/ghpvc/?username=Jayadeep8712&color=00CEC9&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
+**"Code is like humor. When you have to explain it, it's bad." — Cory House**
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-*"The best way to predict the future is to invent it." - Alan Kay*
+*"The best way to predict the future is to invent it." — Alan Kay*
+
+<br>
+
+**Thanks for stopping by! Let's build something amazing together!** 🚀
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4FC3F7,100:0052D4&height=120&section=footer&reversal=true" alt="Footer" />
 
 </div>
